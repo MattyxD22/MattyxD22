@@ -8,7 +8,7 @@ I am well versed in these languages and frameworks:
 - Javascript - *Powerfull language for the web*
 -- jQuery - *duh*
 - Bootstrap - *great UI boilerplate for modern web apps*
-- node.js - *Perfect for middle-man action*
+- node.js - *Perfect for middle-man actions*
 - Express - *fast node.js network app framework*
 - PHP
 - C#
