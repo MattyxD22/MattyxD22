@@ -1,4 +1,4 @@
-# Mathias
+Mathias
 
 ## Tech
 
@@ -18,7 +18,7 @@ I am well versed in these languages and frameworks:
 
 ## _But always eager to learn new and exciting things_
 
-### Currently studying for a bachelor degree in Web Development
+ Currently studying for a bachelor degree in Web Development
 
 <!--
 **MattyxD22/MattyxD22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
