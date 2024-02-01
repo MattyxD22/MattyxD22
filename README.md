@@ -16,7 +16,7 @@ I am well versed in these languages and frameworks:
 - mySQL
 
 
-## _But always eager to learn new and exciting things_
+ _But always eager to learn new and exciting things_
 
  Currently studying for a bachelor degree in Web Development
 
